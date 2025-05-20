@@ -31,5 +31,6 @@ Power Query for data transformation
 
 DAX for creating calculated columns and measures
 
+![Screenshot 2025-05-20 082817](https://github.com/user-attachments/assets/e1027ee9-79ef-421e-bf2f-7c8890d45ee4)
 
 
