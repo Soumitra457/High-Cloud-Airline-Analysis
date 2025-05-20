@@ -9,6 +9,7 @@ Time-based Filtering: Year-wise slicer to analyze data from 2008 to 2012.
 Total transported passengers by carrier (column + line combo chart).
 Load factor distribution by carrier.
 Top carriers by average load factor % (treemap).
+
 **Route Insights:**:
 Top airline routes from origin to destination cities.
 
