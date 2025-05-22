@@ -33,7 +33,6 @@ DAX for creating calculated columns and measures
 
 ![Screenshot 2025-05-20 082817](https://github.com/user-attachments/assets/e1027ee9-79ef-421e-bf2f-7c8890d45ee4)
 
-![image](https://github.com/user-attachments/assets/15ea22a7-e271-4422-b08f-2483fea05818)
 
 
 
